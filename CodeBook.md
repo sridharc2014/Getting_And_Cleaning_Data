@@ -1,6 +1,6 @@
 #CodeBook
 ##Tidy Data Set 1
-This Data Set contains the variables/features of signal recorded by each participant for each of the Subject/Activity
+This Data Set contains the variables/features of signal recorded by each participant for each of the Subject/Activity.
 
 
 Label                          Type        Description
